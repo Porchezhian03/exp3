@@ -28,7 +28,7 @@ To perform a heuristic evaluation of existing websites or apps, identify usabili
 - Collect feedback based on metrics such as task completion rate, satisfaction score, and time on task.
 
 ## OUTPUT
-[UX_Report_Food_Apps (1).pdf](https://github.com/user-attachments/files/20504634/UX_Report_Food_Apps.1.pdf)
+https://lms2.cse.saveetha.in/pluginfile.php/53066/assignsubmission_file/submission_files/127365/UI%20%20UX%20EXP3.docx?forcedownload=1
 
 ## RESULT
 Successfully identified and analyzed usability issues in competing apps/websites using heuristic evaluation. Redesigned one interface with targeted improvements and evaluated its impact using A/B testing. The enhanced version (B) showed noticeable improvements in user satisfaction, task efficiency, and overall usability, validating the importance of systematic UX evaluation and user-centered redesign.
